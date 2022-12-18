@@ -1,3 +1,6 @@
+![This is an image](/logo.png)
+
+
 ## 进群加微信: dboylx
 ## 微信小游戏 Unity3d 开发讨论群 ^_^:
  1. 讨论微信小游戏 技术
